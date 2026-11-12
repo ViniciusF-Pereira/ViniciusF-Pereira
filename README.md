@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28,36&height=240&section=header&text=Vin%C3%ADcius%20de%20Freitas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Analista%20de%20Dados%20Pleno%20%40%20PagBank%20%C2%B7%20Preven%C3%A7%C3%A3o%20a%20Fraudes&descSize=16&descAlignY=56" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Dados+que+viram+decis%C3%A3o.+Automa%C3%A7%C3%A3o+com+controle.;SQL+%7C+Python+%7C+ETL+%7C+Power+BI+%7C+IA+aplicada;Criador+do+Myncellium+%E2%80%94+stack+pr%C3%B3pria+de+agentes+de+IA" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Dados+que+viram+decis%C3%A3o.+Automa%C3%A7%C3%A3o+com+controle.;SQL+%7C+Python+%7C+ETL+%7C+Power+BI+%7C+IA+aplicada;Myncellium+%2B+mobile+%E2%80%94+agentes+de+IA+com+governan%C3%A7a" alt="typing"/>
 
 [![Website](https://img.shields.io/badge/myncellium.com-58a6ff?style=flat&logo=vercel&logoColor=white)](https://myncellium.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f--vinicius-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-vinicius/)
@@ -16,7 +16,7 @@
 
 Analista de **Dados Pleno em Prevenção a Fraudes no PagBank** (São Paulo). SQL, Python, ETLs, monitoramentos e assistentes de IA na operação de fraude. Criador do **Myncellium** — stack própria de agentes de IA em Node.js: plano → aprovação → evidência.
 
-**3 anos** em fraude · **2 promoções** em 2 anos · **~14M tokens por US$ 0,39** no Myncellium · **62 certificados**
+**3 anos** em fraude · **2 promoções** em 2 anos · **~14M tokens por US$ 0,39** no Myncellium · **62 certificados** · **2.482 contribuições** no último ano
 
 ---
 
@@ -71,10 +71,13 @@ Analista de **Dados Pleno em Prevenção a Fraudes no PagBank** (São Paulo). SQ
 
 | Projeto | O que é | Stack |
 |:---|:---|:---|
-| 🧠 **Myncellium** *(privado)* | Stack própria de agentes de IA. ~14M tokens por US$ 0,39 | Node.js · LLMs |
-| 📊 [Pando](https://github.com/ViniciusF-Pereira/Pando) | Pipeline on-chain: coleta, k-means, sinais, risk gate, backtest | Python · SQLite |
-| 🎮 Aethel — Crônicas do Prisma | JRPG de turno em 3D no navegador | JS · Three.js |
-| 🤖 PokeIdle Agent | Agente que joga navegador via Playwright, com travas | JS · Playwright |
+| 🧠 **Myncellium** *(privado)* | Stack própria de agentes de IA — **519 commits só em nov/2026**. Plano → aprovação → evidência; roteador escolhe o caminho mais barato (~14M tokens por US$ 0,39) | Node.js · TypeScript · LLMs |
+| 📱 **myncellium-mobile** *(privado)* | App mobile do ecossistema Myncellium | TypeScript |
+| 🤖 **PokeIdle-Agent-Hermes-Worker** *(privado)* | Agente que joga jogo de navegador via Playwright, com dashboard e travas de segurança | JavaScript · Playwright |
+| 📊 [Pando](https://github.com/ViniciusF-Pereira/Pando) | Pipeline de dados on-chain: coleta, SQLite, k-means, sinais, risk gate, paper trading e backtest walk-forward | Python · SQLite · pytest |
+| 📈 **Trading-Project** *(privado)* | Projetos de trading e análise de mercado | Python |
+| 🐍 **Terminal / Terminal4001-OpenDesk / Hermes-GO** *(privado)* | Ferramentas de terminal e agentes | Python |
+| 🎮 Jogos (Digimon World, Rumble Arena, Jogos-RPG, Aethel) *(privados)* | JRPGs e jogos no navegador | JS · Python · Three.js |
 | 🐍 [Snake](https://github.com/ViniciusF-Pereira/SnakeGameGame.github.io) · 🧠 [Genius](https://github.com/ViniciusF-Pereira/GeniusGame.github.io) · 📸 [Instagram](https://github.com/ViniciusF-Pereira/instagram-dio) · 🎬 [Netflix](https://github.com/ViniciusF-Pereira/Recriando-a-Interface-do-Netflix-Dio) | Jogos e clones da DIO | JS · HTML · CSS |
 
 ---
